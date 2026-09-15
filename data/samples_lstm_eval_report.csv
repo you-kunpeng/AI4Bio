@@ -1,0 +1,9 @@
+metric,value
+n_generated,1000
+validity,0.0170
+uniqueness,0.4706
+novelty,1.0000
+QED_mean,0.3721
+SA_mean,5.8311
+LogP_mean,0.0690
+MW_mean,25.5637
